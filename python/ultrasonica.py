@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 
 GPIO.setmode(GPIO.BCM)
-
+#dorian raygoza
 Trigger = 17
 Echo = 27
 vibrador = 22

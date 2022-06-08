@@ -16,7 +16,7 @@ def build_payload(variable_1, variable_2, variable_3):
     value_1 = random.randint(-10, 50)
     value_2 = random.randint(0, 85)
    
-# Creates a gps coordinates
+# Creates a gps coordinates at the location 
 
 	
     gps = serial.Serial("/dev/serial0", 9600, timeout= 1)

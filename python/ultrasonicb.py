@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 
 GPIO.setmode(GPIO.BCM)
-
+#dorian raygoza
 Trigger = 2
 Echo = 3
 buzzer = 14
