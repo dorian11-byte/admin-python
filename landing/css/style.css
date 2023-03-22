@@ -441,3 +441,21 @@ h6,
 .footer .footer-menu a:hover {
     color: var(--secondary);
 }
+
+@media (max-width: 1500px )  {
+    .step__title {
+        font-size: 180px;
+    }
+}
+
+@media (max-width: 992px) {
+    .step__title {
+        font-size: 150px;
+    }
+}
+
+@media (max-width: 570px) {
+    .step__title {
+        font-size: 100px;
+    }
+}
